@@ -18,8 +18,8 @@ let tileSize = GAME_WIDTH / tileCount - 2;
 
 let score = 0;
 
-const gulpSound = new Audio("sound/gulp.mp3");
-const retroOofSound = new Audio("sound/retro.wav");
+const gulpSound = new Audio("sound_gulp.mp3");
+const retroOofSound = new Audio("sound_retro.wav");
 
 let headX = 10;
 let headY = 10;
